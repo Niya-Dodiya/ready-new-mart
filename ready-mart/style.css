@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#offcanvasDarkNavbarLabel{
+    color: rgb(25, 196, 25);
+    font-size: 40px;
+}
+.navbar{
+    background-color: rgb(228, 118, 118);
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 70px;
+    width: 100%;
+   
+}
+.navbar-brand:hover{
+    color: rgb(237, 244, 237);
+    font-size: 30px;
+}
+.nav-link{
+    color: azure;
+}
+.nav-link:hover{
+    color: rgb(195, 132, 17);
+}
+
+.btn{
+    background-color:rgb(25, 196, 25);
+    color: beige;
+}
+.btn:hover{
+    background-color: aqua;
+    color: black;
+    font-size: 20px;
+}
+.main{
+    height: 91vh;
+    width: 100%;
+}
+
+.col-lg-7 h2{
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: black;
+    justify-content: right;
+    display: flex;
+    margin-left: 1300px;
+}
+
+.btn1{
+    background-color: grey;
+    color: #fff;
+    height: 45px;
+    width: 35%;
+    border-radius: 60px;
+    font-weight: 700;
+    font-size: 20px;
+ margin-right: -1600px;
+  
+
+}
+.col-lg-7 h2:hover{
+   color: #fff;
+
+}
+.img-thumbnail{
+    display: inline;
+    height: 400px;
+    width: 400px;
+}
+.first-new{
+    margin-left: 1200px;
+    margin-top: 50px;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+
+}
+.d-block{
+    height: 700px;
+}
+.fotter{
+    width: 100%;
+    height: 400px;
+    background-color:  rgb(228, 118, 118);
+    color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icone li{
+    font-size: 90px;
+}
+.fotter1 img{
+    width: 1600px;
+    height: 350px;
+}
+.card-title{
+    font-weight: 80px;
+    font-size: 30px;
+    color: black;
+}
+.card-text{
+   
+    font-size: 25px;
+    font-weight: 27px;
+    color: black;
+}
+.fot{
+    font-size: 30px;
+
+}
+#offcanvasDarkNavbarLabel:hover{
+    color: #fff;
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.offcanvas-title:hover{
+    text-shadow: 0pt lightskyblue;
+
+}
+.navbar{
+    background-color: aqua;
+    color: beige;
+    font-size: 10px;
+
+}
